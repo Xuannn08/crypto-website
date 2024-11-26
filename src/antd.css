@@ -1,0 +1,23 @@
+.text-white {
+  color: white;
+}
+
+.ant-select-selection__placeholder {
+  color: blue;
+}
+
+.ant-divider-horizontal.ant-divider-with-text-center::before,
+.ant-divider-horizontal.ant-divider-with-text-center::after {
+  border-top: 1px solid #858989;
+}
+
+.ant-select-selection-placeholder {
+  color: #f0f0f0;
+}
+
+.ant-picker-input input::placeholder {
+  color: #f0f0f0;
+}
+.ant-select-selection__placeholder {
+  color: blue;
+}
